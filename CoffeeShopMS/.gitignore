@@ -1,0 +1,20 @@
+﻿
+# Build folders
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.cache
+
+# Node modules (3D portfolio wala)
+node_modules/
+
+# Other projects
+3D portfolio/
+
+# Windows
+Thumbs.db
+desktop.ini
