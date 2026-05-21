@@ -1,5 +1,5 @@
 # ☕ Coffee Shop Management System
-### Complete Windows Forms App | C# | .NET 6 | SQLite | BCrypt
+### Complete Windows Forms App | C# | .NET 8 | SQLite | BCrypt
 
 ---
 
